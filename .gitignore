@@ -1,5 +1,5 @@
 # TeamCode folder (robot code)
-TeamCode/
+TeamCode/*
 
 # Built application files
 *.apk
