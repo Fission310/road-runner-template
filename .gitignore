@@ -9,6 +9,10 @@ TeamCode/**/teamcode/
 TeamCode/**/teamcode/.
 TeamCode/**/teamcode/*
 
+**/ftc/
+**/teamcode/
+**/teamcode/*.*
+
 # Built application files
 *.apk
 *.aar
