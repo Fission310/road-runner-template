@@ -1,18 +1,3 @@
-# TeamCode folder (robot code)
-TeamCode
-TeamCode/
-TeamCode/*
-TeamCode/src/
-TeamCode/src/main/
-
-TeamCode/**/teamcode/
-TeamCode/**/teamcode/.
-TeamCode/**/teamcode/*
-
-**/ftc/
-**/teamcode/
-**/teamcode/*.*
-
 # Built application files
 *.apk
 *.aar

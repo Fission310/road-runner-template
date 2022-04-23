@@ -1,0 +1,4 @@
+[submodule "TeamCode/src/main/java/org/firstinspires/ftc/teamcode"]
+	path = TeamCode/src/main/java/org/firstinspires/ftc/teamcode
+	url = https://github.com/Fission310/freight-frenzy
+	branch = master
