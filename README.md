@@ -6,7 +6,7 @@ Updated with dependencies used in Stuy Fission robot code.
 
 ## Installation
 
-- Clone this repository using `git clone git@github.com:Fission310/road-runner-template.git` 
+- Clone this repository using `git clone --recurse-submodules git@github.com:Fission310/road-runner-template.git` 
   - You can rename the directory it will be cloned as by typing<br>
        `git clone git@github.com:Fission310/road-runner-template.git <YOUR_NAME>`,<br>
        Replacing `<YOUR_NAME>` with your desired name<br>
