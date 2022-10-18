@@ -26,6 +26,8 @@ dependencies {
 
     implementation 'com.github.Thermal-Equilibrium:homeostasis-FTC:1.0.8'
     implementation 'org.openftc:easyopencv:1.5.1'
-    implementation 'com.github.Fission310:FissionLib:main-SNAPSHOT'
+//    implementation 'com.github.Fission310:FissionLib:main-SNAPSHOT'
+//    implementation 'com.github.Fission310:FissionLib:v1.1.4-alpha'
+    implementation 'com.github.Fission310:FissionLib:v1.1.5-alpha'
 }
 
